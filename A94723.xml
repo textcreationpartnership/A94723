@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Vice-Chancellors speech to His Maiestie, at Christ-Church in Oxford, on New Yeares Day when in the name of the whole vniversitie, he presented His Majestie with a faire guilt cup, and two hundred pounds of gold in it.</title>
+            <author>Tolson, John, 1575 or 6-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94723</idno>
+            <idno type="STC">Wing T1778</idno>
+            <idno type="STC">ESTC R19055</idno>
+            <idno type="EEBO-CITATION">38875754</idno>
+            <idno type="OCLC">ocm 38875754</idno>
+            <idno type="VID">152447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:10 or 242:E84, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Vice-Chancellors speech to His Maiestie, at Christ-Church in Oxford, on New Yeares Day when in the name of the whole vniversitie, he presented His Majestie with a faire guilt cup, and two hundred pounds of gold in it.</title>
+                  <author>Tolson, John, 1575 or 6-1644.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpiece, initial.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of originals in Newberry Library and Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>University of Oxford.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152447:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r</hi>. <hi>Vice-Chancellors</hi> SPEECH TO HIS MAIESTIE, AT Chriſt-Church in Oxford, ON New Yeares Day: When in the name of the whole Vniverſitie, he preſented his Majeſtie with a faire Guilt Cup, and two hun<g ref="char:EOLhyphen"/>dred pounds of Gold in it.</p>
+            <figure>
+               <q xml:lang="lat">SAPI<g ref="char:EOLhyphen"/>ENT<g ref="char:EOLhyphen"/>IA ET FEL<g ref="char:EOLhyphen"/>CITA<g ref="char:EOLhyphen"/>TE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at <hi>Oxford</hi> by <hi>Leon ard Lichfield.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:152447:2"/>
+            <pb n="3" facs="tcp:152447:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>device with an open book, sword, scepter, and surrounding motto, often used for official publications by the King's printers</figDesc>
+               </figure>
+            </head>
+            <head>Maſter <hi>Vice-Chancellors</hi> Speech to His ſacred Majeſtie at his entertainment at <hi>Chriſt Church</hi> in <hi>Oxfo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> on Newyeers day.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Ay it pleaſe your ſacred Majeſty,</salute>
+            </opener>
+            <p>that I in the name of this Univerſity, may ſalute your Highneſſe with the ſame words and wiſhes that the Noble Poet <hi>Horace</hi> once of old uſed to that great favourite of <hi>Auguſtus,</hi> and Pa<g ref="char:EOLhyphen"/>tron of deſert, <hi>Maecenas,</hi> according to that Poets teſtinmony <hi>atavis edite regibus;</hi> namely, <hi>ſpectaum ſatis eſt &amp; donatum cum rude quaeris.</hi>
+            </p>
+            <q xml:lang="lat">
+               <l>Maecenaes iterum antiquo me includere ludo,</l>
+               <l>Non eadem eſt aetas.</l>
+            </q>
+            <p>Never any words ever ſuited our purpoſe with a more ef<g ref="char:EOLhyphen"/>ficacious aptitude: for now wee may juſtly ſay in this Uni<g ref="char:EOLhyphen"/>verſity, <hi>non eadem eſt aetas,</hi> the face of times are ſo wrinckled on the ſudden, that they who not long ſince beheld them young, faire and flouriſhing, looke upon them now, as if thy were quite baniſhed their memory, they appeare ſo decayed, aged and uncomely, as if the Chaos were re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urned againe, and the fabricke of our <hi>Engliſh</hi> world ſha<g ref="char:EOLhyphen"/>ken into a rude and undigeſted maſſe of confuſion.</p>
+            <p>
+               <pb n="4" facs="tcp:152447:3"/>
+And not without reaſon, when that all illuſtrating Sunne of your Majeſties Royall preſence hath, as it were, ſuffered a long and hideous eclipſe, been obvolved and ſurrounded with cloudes and darkneſſe, in reſpect of the diminution of that light of obedience which was refulgent in the boſomes of all your Subjects, darkned are the beames too of your Royall countenance in regard of the abſence of your deare Conſort the Queen her Majeſty, who hath bleſſed your Majeſty with ſo many faire and hopefull pledges of your loves; ſo many ſweet and gracious Princes of both ſexes, that they doe as thoſe in the Pſalmiſt, ſit like Olive bran<g ref="char:EOLhyphen"/>ches round about your table; darkned they are alſo in regard of the ſtill increaſing and over-flowing troubles and diſtractions that ſo riot in your Majeſties Domini<g ref="char:EOLhyphen"/>ons, a ſtreame of blood which hath iſſued from the bo<g ref="char:EOLhyphen"/>dies of your wounded and ſlaughtered Subjects, like a purple cloud, ſhadowing the accuſtomed rayes that uſed ſo cheerfully to iſſue out from your Majeſties eyes, which now ſeeme all to be transformed into the very Ideas of penſiveneſſe and ſadneſſe; ſo that we may with much griefe of heart ſay of your Grace, <hi>O quantum mutatus ab illa;</hi> How much are you altered from that King you were, when you uſed before theſe civill warres to grace our Univerſitie with your Royall preſence, when nought was heard in our Colledges, Halls and Houſes, nay, in this whole City, but the voyce of joy and gladneſſe; but now, <hi>non eadem eſt aetas,</hi> the gallant and learned Orati<g ref="char:EOLhyphen"/>ons made here in entertainment of your Majeſtie, are now reduced to this poore unworthy Speech of mine, the meaneſt of your Highneſſe Subjects, inſtead of thoſe pregnant iſſues of wit and fancie which the nimble brains of our Poets have invented to fill the Scene of your wel<g ref="char:EOLhyphen"/>come hither. Nothing is heard here at this great Feſtivall of our Redeemers nativity, but the tongue of mourn<g ref="char:EOLhyphen"/>ing, the Univerſitie being a very theatre of ſilence, though wee muſt confeſſe our ſelves more obliged to the boun<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:152447:3"/>of the Almighty then any Citie in your Majeſties Kingdomes, in that he hath bleſſed us thus long with being eſteemed worthy to injoy your Majeſties preſence; and ſo that never forgotten benefit hath a little revived and refreſhed our drooping ſoules; yet the ſenſe of our neigh<g ref="char:EOLhyphen"/>bours ſufferings comes like the ill <hi>Gemi</hi> into our imagi<g ref="char:EOLhyphen"/>nations to affright them with the horror of their ghoſtly and hideous countenances; <hi>Non nobis ſolum nati ſumus,</hi> wee were not worthy the Religion wee profeſſe, if wee ſhould not have a fellow-feeling of the afflictions of our Country and its inhabitants, who groane as the <hi>Iſraelites</hi> did under the <hi>Egyptians,</hi> under the oppreſſive weight of their burthens, ſo inſupportable, that they would cracke the ſhoulders of another <hi>Atlas</hi> to ſuſtaine them; their burthens which comprehend the contracted weight of all miſeries incident to mortality; ſince all of them are cha<g ref="char:EOLhyphen"/>ractered in this civil warre. This civill warre that hath robbed the Kingdome of the ancient tranquillitie, the Church of its ſo deſpiſed ornaments, the Subjects of their eſtates quite, nay, lives, and many of them undone paſt all reparation or recovery by theſe military tumults, your facred Majeſtie will be pleaſed to afford mee an indul<g ref="char:EOLhyphen"/>gent pardon for my expatiating ſo much on this point of the Subjects calamity, it is not that I dare be ſo diſ<g ref="char:EOLhyphen"/>loyall, to believe any fault of it reſts in your Majeſty, but out of the tender compaſſion and hearty conſidera<g ref="char:EOLhyphen"/>tion of their afflictions, which wee all hope your Ma<g ref="char:EOLhyphen"/>jeſties paternall and pious care will in good time recti<g ref="char:EOLhyphen"/>fie, for this particular City, but eſpecially for the body of this Univerſity, which this yeere is under my govern<g ref="char:EOLhyphen"/>ment, unworthy as I am of that charge, had not your Majeſties comfortable and all-quickning ſight removed away the clouds that ſhadowed us; certamly ere this darkneſſe had encompaſſed us round about: here would have beene no need of a Vice-chancellor, when there would have been no Students to governe; no need of
+<pb n="6" facs="tcp:152447:4"/>Schooles, when there would have been none to have been taught in them. No Science Liberall practiſed in the Col<g ref="char:EOLhyphen"/>ledges, whence all the Practiſers were fled for feare of per<g ref="char:EOLhyphen"/>ſecution, of being plundered of their ſubſtances; nay, de<g ref="char:EOLhyphen"/>prived (as it was probable enough) of their lives, for being loyally affected to Your Moſt Excellent Majeſtie.</p>
+            <p>In that great deſection of the Iſraelites from the Tribe of <hi>Indah</hi> and Family of <hi>David,</hi> the Tribe of <hi>Levi</hi> ſtuck cloſe to their rightfull King, ſo hath it in England to your Highneſſe, in all theſe domeſtick broyles, not one of the Clergie (but ſome of factious ſpirits) deſerting your cauſe: The two Univerſities, this and that of Cambridge, decla<g ref="char:EOLhyphen"/>ring themſelves in your Majeſties behalfe; and ſurely wee in Oxford had been juſtly branded with the title of ingrati<g ref="char:EOLhyphen"/>tude, if we ſhould have relinquiſhed your Grace, who have formerly, and at this preſent time, heaped upon us ſo many evident teſtimonies of your Royall Benignity to us, and your deare affection to the advancement of good literature, which as I before related, was here reduced to the laſt gaſp, labouring as it were for life, till your Goodneſſe, by tranſ<g ref="char:EOLhyphen"/>ferring your Perſon and Preſence hither, making this your winter reſidence, infus'd new life into the languiſhing Aca<g ref="char:EOLhyphen"/>demy. The Fellows of Houſes now returne to their cham<g ref="char:EOLhyphen"/>bers, ſecur'd by your Majeſtie from any feare of dangers. The young Students, that for their ſafeties were retired home to their fathers houſes, haſte back to the Colledges, proud that they ſhall have the happineſſe to reſide where they may ſee the light and favour of your Royall Counte<g ref="char:EOLhyphen"/>tenance; So that (thanks be to God and and your Majeſtie) decayed learning begins here againe to reſpire and re<g ref="char:EOLhyphen"/>flouriſh.</p>
+            <p>The Romans in a noble gratitude to that great <hi>Camillus,</hi> who reſcued them from the tyranny and ruine of the Galls under the conduct of <hi>Brennus</hi> brought upon them, would needs have conferr'd upon him the title of the ſecond <hi>Ro<g ref="char:EOLhyphen"/>mulus,</hi> the Founder of the Citie, and allowed him equall
+<pb n="7" facs="tcp:152447:4"/>honour with him. The ſame muſt wee, inſpir'd with no leſſe a gratefulneſſe, tender to your Majeſtie, you are our ſe<g ref="char:EOLhyphen"/>cond <hi>Alured,</hi> the ſecond Founder of our Univerſitie; and if to ſave when loſt, in ſome opinion, was as great an action of the Almightie, as to create man-kind out of nothing; Surely our reaſon muſt enforce us to acknowledge our ſelves as much indebted to your Highneſſe, for our preſervation and reſtitution, as to <hi>Alured</hi> for our foundarion and inſtitu<g ref="char:EOLhyphen"/>tion. And ſo with the generall votes of the whole Univer<g ref="char:EOLhyphen"/>ſitie, this new yeere I preſent your Majeſtie in their names, with theſe wiſhes; Grace and Peace this yeare be multi<g ref="char:EOLhyphen"/>plyed upon Your Selfe, your abſent Queene, and Royall Progenie. May the dew fall upon you all, and the bleſſings of <hi>Iacob</hi> be in your inheritance. May all theſe tumultuous and civill diſtractions end with the beginning of this yeere, and the reſt of it be ſpent in imbalming and curing the ma<g ref="char:EOLhyphen"/>ny wounds of our Engliſh Iſrael. And to conclude, may Heavens beſt bountie be ſhowred downe on you, its mightie and out-ſtretched Arme protect you. And as an humble and zealous teſtimony of the Univerſities deſires to ſerve Your Sacred Majeſtie in their names, and as the beſt expreſſion, they for the preſent can make of their loyaltie, I here be<g ref="char:EOLhyphen"/>ſeech Your Highneſſe, to accept this widdows mite, caſt as this New Yeares Oblation into Your Treaſurie, this Cup with two hundred pounds in gold, which is contained with<g ref="char:EOLhyphen"/>in it. 'Tis all, Royall Sir, our Univerſities decay'd debilitie hath to tender as an offering to Your Gracious Hands; our wiſhes deſire it were an unexhauſtible Indies: And ſo wee hope the intention of the gift will make us win favour in Your Eyes, ſo that Your Majeſtie will vouchſafe to accept it as graciouſly, as we preſent it humbly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
